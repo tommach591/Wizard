@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 2ac78cc4cff22844cbb39abc60d6a5ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5762075313613713830
+    second: FireOrb_Idle_0
+  - first:
+      213: 1485297359527315666
+    second: FireOrb_Idle_1
+  - first:
+      213: 5734505532475554926
+    second: FireOrb_Idle_2
+  - first:
+      213: -3108519101621056774
+    second: FireOrb_Idle_3
+  - first:
+      213: 3380203920353329736
+    second: FireOrb_Idle_4
+  - first:
+      213: 3575481972973204314
+    second: FireOrb_Idle_5
+  - first:
+      213: 102193836853546955
+    second: FireOrb_Idle_6
+  - first:
+      213: -4215279734806634871
+    second: FireOrb_Idle_7
+  - first:
+      213: -6498460086408543151
+    second: FireOrb_Idle_8
+  - first:
+      213: 7859500551292206573
+    second: FireOrb_Idle_9
+  - first:
+      213: -4358661715539133450
+    second: FireOrb_Idle_10
+  - first:
+      213: 7281256376884873077
+    second: FireOrb_Idle_11
+  - first:
+      213: -8936095447387768202
+    second: FireOrb_Idle_12
+  - first:
+      213: 448867332653217173
+    second: FireOrb_Idle_13
+  - first:
+      213: 4394369799437982731
+    second: FireOrb_Idle_14
+  - first:
+      213: -5111923847715316295
+    second: FireOrb_Idle_15
+  - first:
+      213: -4489472276897394113
+    second: FireOrb_Idle_16
+  - first:
+      213: -5381203918799295448
+    second: FireOrb_Idle_17
+  - first:
+      213: 1025360591862513170
+    second: FireOrb_Idle_18
+  - first:
+      213: -2146717058329675782
+    second: FireOrb_Idle_19
+  - first:
+      213: 6571237577197755096
+    second: FireOrb_Idle_20
+  - first:
+      213: 5291968168862573373
+    second: FireOrb_Idle_21
+  - first:
+      213: 1500667177168987362
+    second: FireOrb_Idle_22
+  - first:
+      213: 6661143590540528143
+    second: FireOrb_Idle_23
+  - first:
+      213: -1054247147276646034
+    second: FireOrb_Idle_24
+  - first:
+      213: 1685973853099057936
+    second: FireOrb_Idle_25
+  - first:
+      213: -8123160005304339450
+    second: FireOrb_Idle_26
+  - first:
+      213: -5391807221065021881
+    second: FireOrb_Idle_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireOrb_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec103f70ff800b0800000000000000
+      internalID: -5762075313613713830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireOrb_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8837c3416dc9410800000000000000
+      internalID: 1485297359527315666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireOrb_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb7b9266e059f40800000000000000
+      internalID: 5734505532475554926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireOrb_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa4c52c8525cd4d0800000000000000
+      internalID: -3108519101621056774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireOrb_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420b057e85e8ee20800000000000000
+      internalID: 3380203920353329736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireOrb_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5371e329e9ae9130800000000000000
+      internalID: 3575481972973204314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireOrb_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc3efc0c01b6100800000000000000
+      internalID: 102193836853546955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

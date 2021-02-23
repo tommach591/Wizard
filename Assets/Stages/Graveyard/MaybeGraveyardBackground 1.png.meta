@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 818da9274e456b94d9c4d2aef7495567
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8914893953069752962
+    second: MaybeGraveyardBackground 1_0
+  - first:
+      213: 7532288054643657437
+    second: MaybeGraveyardBackground 1_1
+  - first:
+      213: -2727813162487833654
+    second: MaybeGraveyardBackground 1_2
+  - first:
+      213: 2772567192962921525
+    second: MaybeGraveyardBackground 1_3
+  - first:
+      213: 6478598794996358549
+    second: MaybeGraveyardBackground 1_4
+  - first:
+      213: 8412337783739139553
+    second: MaybeGraveyardBackground 1_5
+  - first:
+      213: 3479823157530451781
+    second: MaybeGraveyardBackground 1_6
+  - first:
+      213: 1774053726393486781
+    second: MaybeGraveyardBackground 1_7
+  - first:
+      213: -235497330350032394
+    second: MaybeGraveyardBackground 1_8
+  - first:
+      213: 6295337398417689528
+    second: MaybeGraveyardBackground 1_9
+  - first:
+      213: 3529600014057658899
+    second: MaybeGraveyardBackground 1_10
+  - first:
+      213: 264892392197998956
+    second: MaybeGraveyardBackground 1_11
+  - first:
+      213: -309760436331175466
+    second: MaybeGraveyardBackground 1_12
+  - first:
+      213: -8652719538864214024
+    second: MaybeGraveyardBackground 1_13
+  - first:
+      213: 2084568596838488362
+    second: MaybeGraveyardBackground 1_14
+  - first:
+      213: -1457381255482561964
+    second: MaybeGraveyardBackground 1_15
+  - first:
+      213: -8946003977835347626
+    second: MaybeGraveyardBackground 1_16
+  - first:
+      213: -4511073147668063635
+    second: MaybeGraveyardBackground 1_17
+  - first:
+      213: 2591037883635445442
+    second: MaybeGraveyardBackground 1_18
+  - first:
+      213: -6782056054444938150
+    second: MaybeGraveyardBackground 1_19
+  - first:
+      213: 5934741500287449937
+    second: MaybeGraveyardBackground 1_20
+  - first:
+      213: 7738101360701543335
+    second: MaybeGraveyardBackground 1_21
+  - first:
+      213: 6031659270667637319
+    second: MaybeGraveyardBackground 1_22
+  - first:
+      213: 5689151919059006441
+    second: MaybeGraveyardBackground 1_23
+  - first:
+      213: -57366956907776343
+    second: MaybeGraveyardBackground 1_24
+  - first:
+      213: -2035515702308767866
+    second: MaybeGraveyardBackground 1_25
+  - first:
+      213: -5870864512460045909
+    second: MaybeGraveyardBackground 1_26
+  - first:
+      213: -3342318392261311447
+    second: MaybeGraveyardBackground 1_27
+  - first:
+      213: -3484701747797533444
+    second: MaybeGraveyardBackground 1_28
+  - first:
+      213: 5704828640558312763
+    second: MaybeGraveyardBackground 1_29
+  - first:
+      213: -3553209685756761925
+    second: MaybeGraveyardBackground 1_30
+  - first:
+      213: 7029236782714035816
+    second: MaybeGraveyardBackground 1_31
+  - first:
+      213: -379390742091345300
+    second: MaybeGraveyardBackground 1_32
+  - first:
+      213: -4608991662516493671
+    second: MaybeGraveyardBackground 1_33
+  - first:
+      213: -8889041839851087646
+    second: MaybeGraveyardBackground 1_34
+  - first:
+      213: -2513424593273508640
+    second: MaybeGraveyardBackground 1_35
+  - first:
+      213: 4569774651646563955
+    second: MaybeGraveyardBackground 1_36
+  - first:
+      213: -4813196965461187660
+    second: MaybeGraveyardBackground 1_37
+  - first:
+      213: -162151643572608780
+    second: MaybeGraveyardBackground 1_38
+  - first:
+      213: 2238026718271352375
+    second: MaybeGraveyardBackground 1_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ddffcce2fe74480800000000000000
+      internalID: -8914893953069752962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda04f2f310188860800000000000000
+      internalID: 7532288054643657437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb174c916cd42ad0800000000000000
+      internalID: -2727813162487833654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534f47c1c232a7620800000000000000
+      internalID: 2772567192962921525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d180a674b98e950800000000000000
+      internalID: 6478598794996358549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e54e52d4a0aeb470800000000000000
+      internalID: 8412337783739139553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd7c199b0da4030800000000000000
+      internalID: 3479823157530451781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd442ef674be9810800000000000000
+      internalID: 1774053726393486781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9feeefc685bbcf0800000000000000
+      internalID: -235497330350032394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaybeGraveyardBackground 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0bed72088d5750800000000000000
+      internalID: 6295337398417689528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
